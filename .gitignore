@@ -1,0 +1,10 @@
+!.gitignore
+*.iml
+*.xml
+!pom.xml
+*.log
+.idea/
+.class
+*.apk
+*.jar
+*.war
